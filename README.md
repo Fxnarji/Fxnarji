@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fxnarji
 - 👀 I’m interested in Blender, 3D, Game Creation
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently studying Computer Science
 - 📫 How to reach me Discord, Fxnarji#3486
 
 <!---
